@@ -1,0 +1,2 @@
+timestamp,date,hour,city,temperature,temperature_category,humidity,humidity_category,pressure,wind_speed,description
+2025-09-24 15:30:12,2025-09-24,15,Paris,15.5,Doux,65,Normal,1015,3.5,light rain
