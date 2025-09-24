@@ -1,38 +1,38 @@
 [
   {
     "city": "Paris",
-    "temperature": 10.95,
-    "humidity": 89,
+    "temperature": 10.73,
+    "humidity": 90,
     "pressure": 1020,
     "description": "couvert",
-    "wind_speed": 4.63,
-    "timestamp": "2025-09-24 15:15:52"
+    "wind_speed": 5.14,
+    "timestamp": "2025-09-24 15:27:08"
   },
   {
     "city": "Lille",
-    "temperature": 15.01,
-    "humidity": 54,
+    "temperature": 15.37,
+    "humidity": 53,
     "pressure": 1022,
     "description": "ciel d\u00e9gag\u00e9",
     "wind_speed": 7.72,
-    "timestamp": "2025-09-24 15:15:52"
+    "timestamp": "2025-09-24 15:27:08"
   },
   {
     "city": "Lyon",
-    "temperature": 9.17,
-    "humidity": 80,
+    "temperature": 9.58,
+    "humidity": 79,
     "pressure": 1018,
     "description": "couvert",
-    "wind_speed": 1.97,
-    "timestamp": "2025-09-24 15:15:52"
+    "wind_speed": 0.45,
+    "timestamp": "2025-09-24 15:27:08"
   },
   {
     "city": "Marseille",
-    "temperature": 14.11,
+    "temperature": 14.56,
     "humidity": 64,
     "pressure": 1014,
     "description": "partiellement nuageux",
-    "wind_speed": 4.02,
-    "timestamp": "2025-09-24 15:15:52"
+    "wind_speed": 4.92,
+    "timestamp": "2025-09-24 15:27:08"
   }
 ]
